@@ -72,7 +72,7 @@ Zwierze.java
 **Igor Tomkowicz** (npnpdev)
 
 * GitHub: [npnpdev](https://github.com/npnpdev)
-* LinkedIn: [Igor Tomkowicz](https://www.linkedin.com/in/npnpdev)
+* LinkedIn: [Igor Tomkowicz](https://www.linkedin.com/in/igor-tomkowicz-a5760b358/)
 * E-mail: [npnpdev@gmail.com](mailto:npnpdev@gmail.com)
 
 ## Licencja
